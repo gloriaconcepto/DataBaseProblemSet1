@@ -1,0 +1,41 @@
+*** Remote Interpreter Reinitialized  ***
+>>> 
+************************************************************
+The number of documents in my collection: 5
+************************************************************
+************************************************************
+ All entries with number of post 450 in field ‘UserNumberOfPost’:  2
+************************************************************
+{
+    "0": {
+        "_id": 1.0,
+        "MediumUserName": "mmk",
+        "UserNumberOfPost": 40.0,
+        "PostLength": 300.0
+    },
+    "1": {
+        "_id": 2.0,
+        "MediumUserName": "gloria",
+        "UserNumberOfPost": 100.0,
+        "PostLength": 5000.0
+    },
+    "2": {
+        "_id": 3.0,
+        "MediumUserName": "fela",
+        "UserNumberOfPost": 250.0,
+        "PostLength": 500.0
+    },
+    "3": {
+        "_id": 4.0,
+        "MediumUserName": "zokky",
+        "UserNumberOfPost": 450.0,
+        "PostLength": 5000.0
+    },
+    "4": {
+        "_id": 5.0,
+        "MediumUserName": "nonso",
+        "UserNumberOfPost": 450.0,
+        "PostLength": 800.0
+    }
+}
+>>> 
