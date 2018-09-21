@@ -23,4 +23,7 @@ PROCEDURES:
 
 
 
+VERSION2:
+
+   Version 2 of this problem set involved building the data base from the script itself.
 
